@@ -8,4 +8,4 @@ hide:
 
 These notes are here:
 
-[Warwick McNaughton's Helios Server Notes](https://wrmack.github.io/helios-server-docs/site/)
+[Warwick McNaughton's Helios Server Notes](https://wrmack.github.io/helios-server-notes/)
