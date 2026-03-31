@@ -17,6 +17,7 @@ features = [
   "navigation.tabs"
 ]
 logo = "assets/avatar.png"
+custom_dir = "overrides"
 
 
 [[project.theme.palette]] 
